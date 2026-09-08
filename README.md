@@ -8,7 +8,7 @@ A tiny greeting utility, created to practice the pull request workflow.
 python greet.py
 ```
 
-This will print a personalized greeting mesage to the console.
+This will print a personalized greeting message to the console.
 
 ## API
 
